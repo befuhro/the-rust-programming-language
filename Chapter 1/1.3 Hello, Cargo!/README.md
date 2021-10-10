@@ -48,3 +48,6 @@ $ cargo check
 
 ## Cargo.lock file
 This file keeps track of the exact version of our project's dependencies. It is created and modified by Cargo and should not be edited manually.
+
+## More information
+More information can be found in the official's Cargo [documentation](https://doc.rust-lang.org/cargo/)
